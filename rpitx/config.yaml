@@ -1,0 +1,11 @@
+name: "RPiTX",
+version: "0.1",
+slug: "rpitx",
+description: >-
+  "RPiTX for Home Assistant",
+arch:
+  - armhf
+  - armv7
+  - aarch64
+url: "https://github.com/aaronjamt/hassio-addons/tree/master/rpitx",
+gpio: true
